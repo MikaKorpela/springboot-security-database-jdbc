@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springboot-security-database-jdbc
+  datasource:
+    url: jdbc:mysql://localhost:3306/pikecape
+    username: root
+    password: root
