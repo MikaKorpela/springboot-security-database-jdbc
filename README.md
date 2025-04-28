@@ -10,7 +10,7 @@ The JDBC option uses that the pre-defined database tables:
 - `users` - contains the user credentials
 - `authorities` - contains the user roles
 
-The used database in this case is MySLQL, but it can be any database that is supported by Spring Boot.
+The used database in this case is MySQL, but it can be any database that is supported by Spring Boot.
 
 The following properties are needed for accessing the database; hard-coded and human readable credentials should be used on development only.
 
